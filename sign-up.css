@@ -6,7 +6,7 @@
   font-family: "Poppins", sans-serif;
 }
 body{
-  width: 100%;
+  width: 75%;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -61,7 +61,7 @@ form input{
   outline: none;
   padding: 0 45px;
   font-size: 18px;
-  background: none;
+  /* background: none; */
   caret-color: #5372F0;
   border-radius: 5px;
   border: 1px solid #bfbfbf;
